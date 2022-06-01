@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(179, 245, 245);
+    padding: 3px;
+}
+.header h2{
+    color: rgb(22, 12, 13);
+}
+.header h3{
+    color: rgb(194, 22, 171);
+}

@@ -1,0 +1,35 @@
+
+.teacher{
+    background-color: rgb(248, 242, 234);
+    border: 3px solid rgb(97, 69, 59);
+    border-radius: 10px;
+    margin: 8px;
+    padding: 3px;
+    /* width: max-content;
+    height: max-content; */
+    
+}
+.teacher h3{
+    color: rgb(79, 223, 79);
+}
+.teacher h4{
+    color: hotpink;
+}
+.teacher h5{
+    color: rgb(36, 33, 32);
+}
+.teacher p{
+    color: rgb(101, 128, 48);
+}
+.teacher h6{
+    color: rgb(14, 14, 1);
+}
+.button{
+    background-color: rgb(10, 204, 123);
+    color: white;
+    padding: 5px;
+    border:1px solid cornsilk;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}

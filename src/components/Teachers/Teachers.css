@@ -1,0 +1,13 @@
+.teacher-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.teacher-deatails{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+.icon-tag{ 
+    margin-right : 25px;
+}
